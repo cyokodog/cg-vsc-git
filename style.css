@@ -3,3 +3,9 @@ body {
   text-align: center;
   font-size: 2em;
 }
+.note {
+  padding: 1em;
+  border: dotted 1px #ccc;
+  color: #777;
+  background-color: #ffffee;
+}
